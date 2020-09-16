@@ -33,7 +33,9 @@
     "prop-types": "^15.6.2"
   },
   "devDependencies": {
+    "@types/redux-actions": "2.6.1",
     "react": "^16.13.1",
+    "redux-actions": "2.6.5",
     "typescript": "3.9.3"
   },
   "dependencies": {},
